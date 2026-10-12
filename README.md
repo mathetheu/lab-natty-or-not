@@ -20,7 +20,7 @@ Revisão Humana: Adequação vocabular para garantir acessibilidade e fluidez na
 
 🚀 Resultados
 
-Arquivo ebook_viver_bem_70mais.md contendo o livro completo, pronto para ser exportado como PDF acessível ou impresso.
+Arquivo ebook.md contendo o livro completo, pronto para ser exportado como PDF acessível ou impresso.
 
 Um roteiro estruturado com mensagens de otimismo prático e reflexões diárias de autocuidado.
 
